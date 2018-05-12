@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '9869'
     url: http://www.gutenberg.org/2009/agents/9869
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46364#Essais-po-tiques
 gutenberg_bookshelf: FR Poésie
 gutenberg_issued: '2014-07-22'
 gutenberg_type: Text
